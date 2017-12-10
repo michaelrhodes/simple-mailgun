@@ -1,0 +1,12 @@
+{
+  "name": "simple-mailgun",
+  "version": "0.0.0",
+  "description": "a simple client for the mailgun api",
+  "main": "index.js",
+  "dependencies": {
+    "fast-json-parse": "~1.0.3",
+    "simple-get": "~2.7.0"
+  },
+  "author": "Michael Rhodes",
+  "license": "MIT"
+}
