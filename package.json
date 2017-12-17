@@ -1,6 +1,6 @@
 {
   "name": "simple-mailgun",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "a simple client for the mailgun api",
   "main": "index.js",
   "dependencies": {
